@@ -4,7 +4,13 @@ The demo is conducted on "https://parabank.parasoft.com/parabank/index.htm" whic
 
 Reporting tool used is allure.
 
-To run locally clone the repo,
+<h2> Example Run using Github actions::<h2>
+https://github.com/rohitthakur8009/SeleniumDemo/runs/6322219535?check_suite_focus=true
+
+
+<h2>To run locally::</h2>
+  
+Clone the repo.
 
 Run:
 
