@@ -1,0 +1,12 @@
+env_config:
+  test:
+    base_domain: www.saucedemo.com
+    protocol: https
+  live:
+    base_domain: www.saucedemo.com
+    protocol: https
+browser: chrome
+browser_options:
+  - --ignore-certificate-errors
+  - --headless
+
